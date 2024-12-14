@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Exercise 01 - Shell scripting - Marius Bordal & Teklit Haileab
 
 # Global Variables:
 verbose_flag=false
